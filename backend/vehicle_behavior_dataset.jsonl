@@ -1,0 +1,12 @@
+{"input": "What is the speed limit on this road?", "output": "The speed limit on this road is 50 km/h."}
+{"input": "What is multipoint tracing?", "output": "Multipoint tracing tracks a vehicle across multiple checkpoints to analyze its route and behavior."}
+{"input": "What are the common traffic violations?", "output": "Common violations include speeding, illegal turns, red light running, and improper lane changes."}
+{"input": "How do you identify tailgating?", "output": "Tailgating is detected when a vehicle follows another vehicle too closely, violating safe distance rules."}
+{"input": "What should the system do if a vehicle exceeds speed limits?", "output": "The system flags the violation and logs vehicle ID, timestamp, and location for further action."}
+{"input": "How accurate is your violation detection?", "output": "Our system uses multiple videos and historical data to ensure accuracy in violation detection."}
+{"input": "How to report a violation?", "output": "Violations detected are automatically logged and can be reviewed by traffic authorities via the dashboard."}
+{"input": "What data is collected during vehicle tracing?", "output": "We collect vehcile position, speed, lane changes, and vehicle IDs at each checkpoint."}
+{"input": "What happens if a vehicle changes lanes abnormally?", "output": "Illegal lane changes are flagged as violations for further action."}
+{"input": "How does the dashboard display violation data?", "output": "The dashboard shows vehicle information, violation types, and analysis graphs."}
+{"input": "Can the system handle multiple vehicles simultaneously?", "output": "Yes, multipoint tracing and violation detection works concurrently for multiple vehicles on the network."}
+{"input": "Is the system scalable for large cities?", "output": "Our architecture supports scalable deployment."}
