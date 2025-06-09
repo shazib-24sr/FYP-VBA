@@ -1,0 +1,9 @@
+Flask
+flask-cors
+pandas
+numpy
+pymongo
+bson
+opencv-python
+ultralytics
+shapely
